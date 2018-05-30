@@ -1,0 +1,13 @@
+{
+    "debug": false,
+    "db_echo": false,
+    "site_info": {
+      "site_name": "91girl",
+      "url": "http://91.91p17.space/v.php?next=watch",
+      "table_name": "tbl_91girl_videos"
+    },
+    "db_sqlite_info": {
+      "name": "91group.db",
+      "path": ""
+    }
+}

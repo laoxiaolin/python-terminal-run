@@ -1,0 +1,13 @@
+# dependencies
+/Lib
+
+# evn File
+/Include
+/Scripts
+pyvenv.cfg
+
+#vcode
+/.vscode
+
+#python
+pip-selfcheck.json
